@@ -12,7 +12,7 @@
 
 **Description:** this endpoint has the function of returning a list of locations from the zip code or a list of zip codes.
 
-**Methos:** ```GET```
+**Method:** ```GET```
 
 **Endpoint:** ```{host}/api/search/local/{ceps}```
 
