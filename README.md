@@ -10,8 +10,10 @@
 
 ## SEARCH LOCATIONS
 
-**Description:** this endpoint has the function of returning a list of locations from the zip code or a list of zip codes
+**Description:** this endpoint has the function of returning a list of locations from the zip code or a list of zip codes.
+
 **Methos:** ```GET```
+
 **Endpoint:** ```{host}/api/search/local/{ceps}```
 
 ## Params
